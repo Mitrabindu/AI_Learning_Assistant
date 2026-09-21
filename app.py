@@ -45,6 +45,8 @@ if st.button("Analyze Emotion"):
     st.write(emotion)
 
     # CSV File
+    os.makedirs("logs", exist_ok=True)
+
     file = "logs/history.csv"
 
     # Header create if file is empty
