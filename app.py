@@ -4,8 +4,8 @@ import os
 from datetime import datetime
 import pandas as pd
 import plotly.express as px
-import google.generativeai as genai
-genai.configure(api_key="")
+
+
 
 st.set_page_config(page_title="AI Learning Assistant")
 model_choice = st.selectbox(
