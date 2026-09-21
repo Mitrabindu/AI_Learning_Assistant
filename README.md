@@ -1,4 +1,7 @@
 # AI Learning Assistant
+## Live Demo
+
+[AI Learning Assistant](https://ailearningassistant-nfmvfzguzhgpzg6oqkkwrz.streamlit.app/)
 
 ## Overview
 AI Learning Assistant detects student emotions from text and provides personalized learning support.
